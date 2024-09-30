@@ -1,0 +1,9 @@
+{
+  "name": "fivem-natives-counter",
+  "version": "1.0.0",
+  "description": "An unnecessary script to count the number of FiveM natives",
+  "type": "module",
+  "main": "index.js",
+  "author": "OrdinaryDude2634",
+  "license": "Apache-2.0"
+}
